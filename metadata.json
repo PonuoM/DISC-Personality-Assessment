@@ -1,0 +1,6 @@
+{
+  "name": "DISC Personality Assessment (แบบทดสอบบุคลิกภาพ DISC)",
+  "description": "A web application to help identify personality types based on the DISC model through a 10-question assessment with a timer for each question. Results summarize the dominant DISC type (D, I, S, or C). The application is in Thai.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
